@@ -9,6 +9,7 @@
 5. location.pathname：得到主机后部分不包括问号?后部分的/test.php
 6. location.search：得到url中问号?之后井号#之前的部分?user=admin&pwd=admin
 7. location.hash：得到#之前的部分#login
+8. 
 
 
 
